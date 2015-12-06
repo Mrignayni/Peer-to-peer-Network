@@ -1,6 +1,5 @@
 Name: Mrignayni Chhotwani
-UFID: 1959-5411
-Email: mrig@ufl.edu
+Email: mrignayni@chhotwani.com
 
 How to run:
 
@@ -9,7 +8,7 @@ How to run:
 -Run Server first using "java Server <File Name>" command. For example, if file name is Image.jpg, run "java Server Image.jpg"
 (I have added an Image.jpg in the folder that can be used as the file)
 
--The run all clients using command "Java Client <Client name>" command. For example, "java Client Client5"
+-The run all clients using command "Java Client <Client name>" command. For example, "java Client c1"
 
 -Press any key followed by enter in every client cmd to start all clients
 
